@@ -1,4 +1,13 @@
 ## Hi there 👋
+I'm a passionate Flutter Developer with over 1.5 years of experience in building dynamic, feature-rich mobile applications. I've had the opportunity to work on a variety of projects, from inception to deployment, leveraging the power of Firebase for real-time databases and seamless user experiences. 
+# My expertise includes developing apps
+-  BLE technology,
+-  Integrating Google Maps for live tracking,
+-  Creating applications in the finance and educational sectors.
+
+Throughout my career, I've focused on crafting efficient, scalable, and user-friendly applications that meet the highest standards of quality and performance. Whether it's a finance app that requires robust security or an educational app that demands intuitive design, I bring a solution-oriented approach to every project.
+
+Feel free to explore my repositories and connect if you have any questions or collaboration ideas!
 
 <!--
 **Zohaib2233/Zohaib2233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
