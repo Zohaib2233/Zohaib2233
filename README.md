@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a passionate **Flutter Developer** with over 1.5 years of hands-on experience in creating innovative and user-friendly mobile applications. My journey in Flutter development has allowed me to build and deploy several apps from scratch, focusing on the following key areas:
+I'm a passionate **Flutter Developer** with over 2 years of hands-on experience in creating innovative and user-friendly mobile applications. My journey in Flutter development has allowed me to build and deploy several apps from scratch, focusing on the following key areas:
 
 - **Firebase Integration**: Expertise in utilizing Firebase for real-time database management, authentication, and cloud functions.
 - **BLE Technology**: Developed applications leveraging Bluetooth Low Energy (BLE) for seamless device communication.
